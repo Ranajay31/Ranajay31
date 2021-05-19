@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ranajay31
 - 👀 I’m an aspiring Data Scientist
 - 🌱 I’m into Machine Learning algorithms and their applications
-- 💞️ I’ve currently ventured into the world of  Deep Learning and Neural Networks
+
 - 📫 Mail id- ranajaydas0031@gmail.com
 
 <!---
